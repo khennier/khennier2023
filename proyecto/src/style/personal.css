@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'baby'; 
+    src: url('../fonts/BabyGirly.ttf') format('truetype'); 
+    font-style: normal;
+  }
+  
+
+.my-navbar-color {
+    background-color: #fff; 
+    margin: auto;
+    padding: auto;
+  }
+
+.my-container {
+    margin: auto;
+    padding: auto;
+}
+body {
+    background-color: #fff;
+}
+
+.my-navbar-button {
+    color: #f20cad;
+    font-family: 'baby';
+    font-size: 1.5em;
+    margin: 5;
+    padding: 5;
+}
