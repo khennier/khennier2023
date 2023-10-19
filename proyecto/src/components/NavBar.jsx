@@ -5,7 +5,7 @@ import '../style/personal.css';
 function NavBar({logo}) {
   return (
 
-      <Navbar className="my-navbar-color" expand="lg">
+      <Navbar className="my-navbar-edit" expand="lg">
         <Navbar.Brand href="#home">
           <img
             src={logo}

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
 
+
 function CarouselComponent({ images }) {
   return (
     <Carousel>
